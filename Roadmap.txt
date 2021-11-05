@@ -66,8 +66,8 @@ Fin de mise en place du site: 05/11/2021 à 2h40
 
 - Correctifs:
  > DONE - Navbar : Modification des couleurs
- > 
- >
+ > DONE - Index.html: Ajout de redirection.
+ > Ajout des SocialNetwork-icons
 
 Languages utilisés :
  HTML

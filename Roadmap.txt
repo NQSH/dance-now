@@ -1,0 +1,84 @@
+Évaluation d'entraînement 
+Créer un site web avec HTML, CSS et le Framework Bootstrap
+Debut d'épreuve: 04/11/2021 à 16h00
+Temps de recherche et mise en place de Roadmap: 2h
+Fin de mise en place du site: 05/11/2021 à 2h40
+
+- Mise en place de Roadmap
+
+- DONE - Recherche d'idées pour l'association (fictive)
+	Nom: DanceNow
+	Projet: Présentation des évènements musicaux à venir (festivals, concerts etc.)
+
+- DONE - Recherche de contenu à présenter (idées d'articles)
+	GAROROCK EXPERIENCE. Marmande (47)
+		https://www.garorock.com/
+		DU 30 JUIN AU 03 JUILLET 2022
+		PLAINE DE LA FILHOLE MARMANDE (47)
+		C’est en avril 1997, que le Sud Ouest voit naître un festival à la tendance punk/rock avérée, dans les anciens abattoirs marmandais : le Garorock, jeu de mot oscillant entre Garonne et Rock, mais aussi Gare au Rock.
+		Billeterie: https://www.garorock.com/
+	LES DEFERLANTES SUD DE FRANCE. Argeles Sur Mer (66)	
+		https://www.festival-lesdeferlantes.com/
+		Du Jeu. 7 Juillet au Dim. 10 Juillet 2022
+		Château d’Aubiry, Céret, France, 66400
+		Coup d’envoi de l’été, Les Déferlantes Sud de France marque chaque année le retour des beaux jours et de l’insouciance. Des plus grands noms internationaux aux nouvelles pépites de la chanson, venez danser, vous évader, en famille ou entre amis, sur les sons d’une programmation curieuse et ambitieuse. 
+		Billeterie: https://festival-lesdeferlantes.seetickets.com/tour/les-deferlantes-sud-de-france
+	LOLLAPALOOZA PARIS. Paris (75)
+		https://www.lollaparis.com/
+		Du 16 au 17 Juillet 2022
+		Hippodrome Paris LongChamp
+		Lollapalooza Paris est l'édition française de la tournée mondiale du festival, apportant chaque été une touche de rock et de pop sur Paris pour l'un des week-ends les plus attendus de l’année.
+		Billeterie: https://www.lollaparis.com/tickets
+	FESTIVAL DE NIMES. Nimes (30)
+		https://www.festivaldenimes.com/
+		Du 17 Juin au 23 Juillet 2022
+		Les Arènes de Nîmes
+		Depuis 1997, le Festival de Nîmes investit les Arènes chaque été sous le signe des musiques actuelles dans toute leur diversité. De la chanson française (LES VIEILLES CANAILLES, MICHEL POLNAREFF, RENAUD, FRANCIS CABREL…) au métal (METALLICA, RAMMSTEIN…), des grandes stars de la variété internationale (DEPECHE MODE, MUSE, BJÖRK, PLACEBO…) aux nouvelles révélations (STROMAE, KENDJI GIRAC, MAITRE GIMS…), Nîmes accueille ainsi légendes de la musique (NEIL YOUNG, DAVID GILMOUR, SANTANA…) et concerts évènements (DAVID BOWIE, RADIOHEAD…) dans un cadre unique.
+		Billeterie: https://www.festivaldenimes.com/
+	=================================
+	REGGAE EMPIRE. Feytiat (87)
+	ARDECHE ALUNA FESTIVAL. Ruoms (07)
+	LES NUITS DE FOURVIERE. Lyon (69)
+	ROCK EN SEINE. Saint Cloud (92)
+	=================================
+
+- DONE - Recherche d'une identité graphique (couleurs, police, style)
+	Couleur(s) (src = couleurs par défaut de Bootstrap):
+		--orange: #fd7e14;
+		--yellow: #ffc107;
+		--white: #fff;
+		--gray: #6c757d;
+		--gray-dark: #343a40;
+	Police(s): Segoe UI, sans-serif
+	Style: Flat Design
+
+- DONE - Mise en place d'un dépôt git
+
+- DONE - Installation de Bootstrap au sein du projet
+
+- DONE - Importation du contenu (images)
+
+- DONE - Création d'une structure générale en HTML, avec le framework Bootstrap (SAMPLE.html--supprimé)
+
+- DONE - Création de la première page (Accueil)
+
+- DONE - Création de la page évènements
+
+- Correctifs:
+ > DONE - Navbar : Modification des couleurs
+ > DONE - Index.html: Ajout de redirection.
+ > Ajout des SocialNetwork-icons
+
+Languages utilisés :
+ HTML
+ CSS
+
+Framework :
+ Bootstrap
+
+Logiciels :
+ Visual Studio Code
+ Console GitBash
+
+Hébergement :
+ null
